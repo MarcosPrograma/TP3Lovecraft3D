@@ -1,0 +1,304 @@
+{
+    "audio": "audios/aireFrio.mp3",
+    "modelo": "modelos/modeloLoveCraftv2.glb",
+    "fondo": "rgb(19,21,41)",
+    "data": [
+        {
+            "tiempo": "00:00",
+            "camara": "cam1(SentadoEnCama)",
+            "target": "target1(cam1)",
+            "nombre": "inicio"
+        },
+        {
+            "tiempo": "00:01",
+            "camara": "cam1(SentadoEnCama)",
+            "duracion": 3500,
+            "target": "target2(cam1)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:05",
+            "camara": "cam1(SentadoEnCama)",
+            "duracion": 2500,
+            "target": "target3(cam1)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:08",
+            "camara": "cam1(SentadoEnCama)",
+            "target": "target3(cam1)",
+            "fadeIn": 500,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:13",
+            "duracion": 0,
+            "camara": "cam2(Escaleras)",
+            "target": "target5(cam2)",
+            "fadeOut": 1000,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": "Escaleras"
+        },
+        {
+            "tiempo": "00:14",
+            "duracion": 3000,
+            "camara": "target4(cam2)",
+            "target": "target4,5(cam2)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:17",
+            "duracion": 1500,
+            "camara": "target5(cam2)",
+            "target": "cam3(PasilloInferior)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:18",
+            "duracion": 2000,
+            "camara": "cam3(PasilloInferior)",
+            "target": "target6(cam3)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:20",
+            "duracion": 3000,
+            "camara": "target6(cam3)",
+            "target": "target6(cam3)",
+            "fadeIn": 1500,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:27",
+            "duracion": 0,
+            "camara": "cam4(Acostado)",
+            "target": "target7(cam4)",
+            "fadeOut": 100,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": "Gotas de Agua"
+        },
+        {
+            "tiempo": "00:28",
+            "duracion": 800,
+            "camara": "cam4(Acostado)",
+            "target": "target8(cam4)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:30",
+            "duracion": 800,
+            "camara": "cam4(Acostado)",
+            "target": "target9(cam4)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:32",
+            "duracion": 800,
+            "camara": "cam4(Acostado)",
+            "target": "target10(cam4)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:34",
+            "duracion": 2500,
+            "camara": "cam5(Agua)",
+            "target": "target10(cam4)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:37",
+            "duracion": 2000,
+            "camara": "cam5,5(Agua)",
+            "target": "target11(cam5)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:39",
+            "duracion": 0,
+            "camara": "cam5,5(Agua)",
+            "target": "target11(cam5)",
+            "fadeIn": 1000,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:41",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeOut": 1000,
+            "fadeColor": "rgb(0,0,0)",
+            "nombre": "Sentado en el escritorio"
+        },
+        {
+            "tiempo": "00:49",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeIn": 300,
+            "fadeColor": "rgb(210,18,18)",
+            "nombre": null
+        },
+        {
+            "tiempo": "00:50",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeOut": 300,
+            "nombre": null
+        },
+        {
+            "tiempo": "00:51",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeIn": 300,
+            "nombre": null
+        },
+        {
+            "tiempo": "00:52",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeOut": 300,
+            "nombre": null
+        },
+        {
+            "tiempo": "00:53",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeIn": 300,
+            "nombre": null
+        },
+        {
+            "tiempo": "00:54",
+            "duracion": 0,
+            "camara": "cam6(Escritorio)",
+            "target": "target12(cam6)",
+            "fadeOut": 300,
+            "nombre": null
+        },
+        {
+            "tiempo": "00:45",
+            "duracion": 0,
+            "camara": "cam6",
+            "target": "target11",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:46",
+            "duracion": 0,
+            "camara": "camRoja",
+            "target": "target11",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:47",
+            "duracion": 0,
+            "camara": "cam6",
+            "target": "target11",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:49",
+            "duracion": 2000,
+            "camara": "cam7",
+            "target": "target12Paso0",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:52",
+            "duracion": 1000,
+            "camara": "cam8Paso1",
+            "target": "target13Paso1",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:54",
+            "duracion": 1000,
+            "camara": "cam9Paso2",
+            "target": "target12Paso0",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:56",
+            "duracion": 1000,
+            "camara": "cam10Paso3",
+            "target": "target13Paso1",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:58",
+            "duracion": 1000,
+            "camara": "cam11Paso4",
+            "target": "target14Piso",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "00:59",
+            "duracion": 0,
+            "camara": "camNegra",
+            "target": "target14Piso",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:01",
+            "duracion": 0,
+            "camara": "cam12Cambio",
+            "target": "target15Cambio",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:06",
+            "duracion": 4000,
+            "camara": "cam13Borrar",
+            "target": "target16Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:10",
+            "duracion": 4000,
+            "camara": "cam13Borrar",
+            "target": "target17Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:14",
+            "duracion": 4000,
+            "camara": "cam13Borrar",
+            "target": "target18Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:18",
+            "duracion": 4000,
+            "camara": "cam13Borrar",
+            "target": "target19Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:22",
+            "duracion": 4000,
+            "camara": "cam13Borrar",
+            "target": "target20Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "01:26",
+            "duracion": 4000,
+            "camara": "cam14Borrar",
+            "target": "target20Borrar",
+            "nombre": "Tercera cosa"
+        },
+        {
+            "tiempo": "20:13",
+            "duracion": 0,
+            "camara": "cam1",
+            "target": "target3",
+            "nombre": "Tercera cosa"
+        }
+    ]
+}

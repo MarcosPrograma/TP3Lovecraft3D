@@ -1,0 +1,28 @@
+{   "audio":"audios/audio.mp3",
+    "modelo":"modelos/modelo.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":2000,
+                "camara":[0,0,-5],
+                "target":[0,0,0],
+                "nombre":"vista uno"
+           },
+           {
+               "tiempo":"00:03",
+               "duracion":2000,
+               "camara":[0,0,-10],
+               "target":[0,0,0],
+               "nombre":"vista dos"
+          },
+          {
+               "tiempo":"00:09",
+               "duracion":2000,
+               "camara":[0,0,-15],
+               "target":[0,0,0],
+               "nombre":"vista tres"
+          }
+      ]
+}
